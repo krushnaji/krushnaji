@@ -4,7 +4,7 @@
 <p align="center">
 Passionate DevOps Engineer with 8+ years of experience in <b>Cloud (AWS, Azure)</b>, 
 <b>CI/CD automation</b>, <b>Kubernetes</b>, <b>Docker</b>, <b>Infrastructure Automation</b>, 
-and <b>Site Reliability Engineering</b>.  
+and <b>Site Reliability Engineering</b>.
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@ and building scalable, reliable systems.
 ---
 
 ## 🚀 About Me
-- 🔧 8+ years in DevOps, SRE, automation & enterprise delivery  
+- 🔧 8+ years in DevOps, SRE, automation & enterprise platform delivery  
 - 🛠️ Strong expertise in **CI/CD pipelines**, microservices platforms & cloud-native infra  
 - ⚡ Improved P1 incidents by **80%** using automation & proactive monitoring  
 - 🎯 Reduced upgrade windows from **5 hours → 2 hours**, completing **50+ upgrades in 6 days**  
-- 🌩️ Experience across **AWS, Azure, Kubernetes, Jenkins, GitLab CI/CD, Docker, Terraform (Tofu)**  
-- 📘 Passionate about writing clean documentation & repeatable automation  
-- 📫 Reach me at: **rkrushnaji@gmail.com**
+- 🌩️ Hands-on with **AWS, Azure, Kubernetes, Jenkins, GitLab CI/CD, Docker, Terraform (Tofu)**  
+- 📘 Passionate about clean documentation & reusable automation  
+- 📫 Reach me: **rkrushnaji@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack (From Real Projects)
+## 🛠️ Tech Stack (Real Experience)
 
 ### ☁️ Cloud Platforms
 <p>
@@ -68,57 +68,6 @@ and building scalable, reliable systems.
 
 ---
 
-## 🏆 Key Achievements (From Resume)
-- ⚡ **80% reduction in P1 production incidents** through proactive automation  
-- ⚡ **60% faster deployments** using containerized build pipelines  
-- ⚡ **60% faster SRE upgrades**, completing 50+ upgrades in just 6 days  
-- ⚡ Automated complete **CI/CD pipeline** integrating GitLab, Jenkins, Maven, Docker & Nexus  
-- ⚡ Standardized **EKS onboarding** for multiple teams improving deployment consistency  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 **ACMP 2.0 – Log Analytics Platform**
-Automated CI/CD chain using GitLab → Jenkins → Maven → Nexus → Docker.  
-Reduced manual effort by **70%** using fully automated build-test-deploy workflow.
-
-### 🔹 **AtomiQ – CI/CD with Multibranch Jenkins**
-Delivered a complete multi-environment pipeline integrating GitLab, Maven, Docker & Tomcat.
-
-### 🔹 **SRE Platform Upgrades**
-Optimized process enabling completion of upgrades in **2 hours instead of 5 hours**.
-
----
-
-## 📈 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krushnaji&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnaji&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krushnaji&theme=nord&no-frame=true&margin-w=5" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/raghavdevops/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
-</a>
-<a href="mailto:rkrushnaji@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35" width="45" />
-</a>
-</p>
-
----
-
-<p align="center">
-⚡ <b>“Automation isn’t optional in DevOps — it’s the culture.”</b> ⚡
-</p>
+## 🏆 Key Achievements
+- ⚡ **80% reduction in P1 production incidents** via automation & RCA  
+- ⚡ **60% faster deployment cycles** using containe
